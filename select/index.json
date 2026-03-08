@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Fly Up",
+  "base_artist": "RIIZE",
+  "createdAt": "2026-03-08T08:32:19.974089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise (Fly Up Your Nose)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/01_May_the_Bird_of_Paradise_(Fly_Up_Your_Nose)_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise (Fly Up Your Nose) (Album Version)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/02_May_the_Bird_of_Paradise_(Fly_Up_Your_Nose)_(Album_Version)_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise Fly Up Your Nose",
+      "artist": "'Little' Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/03_May_the_Bird_of_Paradise_Fly_Up_Your_Nose_'Little'_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise Fly up Your Nose",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": true,
+      "path": "select/04_May_the_Bird_of_Paradise_Fly_up_Your_Nose_Little_Jimmy_Dickens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly Up to the Moon",
+      "artist": "Black",
+      "has_synced": false,
+      "path": "select/05_Fly_Up_to_the_Moon_Black.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly Up (Concert Ver.) (Feat. Door)",
+      "artist": "Hwang Chang young feat. Door",
+      "has_synced": true,
+      "path": "select/06_Fly_Up_(Concert_Ver.)_(Feat._Door)_Hwang_Chang_young_feat._Door.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly Up (Concert Ver.) (Feat. Door)",
+      "artist": "Hwang Chang young",
+      "has_synced": true,
+      "path": "select/07_Fly_Up_(Concert_Ver.)_(Feat._Door)_Hwang_Chang_young.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "May the Bird of Paradise Fly Up Your Nose",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/08_May_the_Bird_of_Paradise_Fly_Up_Your_Nose_Little_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fly Up To The Moon",
+      "artist": "Colin Vearncombe",
+      "has_synced": true,
+      "path": "select/09_Fly_Up_To_The_Moon_Colin_Vearncombe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fly Up",
+      "artist": "Lookism",
+      "has_synced": false,
+      "path": "select/10_Fly_Up_Lookism.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly Up (Ballad Ver.)",
+      "artist": "Door",
+      "has_synced": true,
+      "path": "select/11_Fly_Up_(Ballad_Ver.)_Door.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fly Up",
+      "artist": "La Santa Grifa",
+      "has_synced": true,
+      "path": "select/12_Fly_Up_La_Santa_Grifa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fly Up (Ballad Version)",
+      "artist": "door",
+      "has_synced": true,
+      "path": "select/13_Fly_Up_(Ballad_Version)_door.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fly Up (Concert Ver.)",
+      "artist": "Hwang Chang young",
+      "has_synced": true,
+      "path": "select/14_Fly_Up_(Concert_Ver.)_Hwang_Chang_young.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fly Up (Feat. Door) - Concert Version",
+      "artist": "Hwang Chang young",
+      "has_synced": true,
+      "path": "select/15_Fly_Up_(Feat._Door)_-_Concert_Version_Hwang_Chang_young.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly Up",
+      "artist": "RIIZE",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_Up_RIIZE.txt"
+    }
+  ]
+}
